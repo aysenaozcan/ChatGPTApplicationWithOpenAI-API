@@ -1,5 +1,7 @@
 # ChatGPTApplicationWithOpenAI-API
 Text Completion, ImageGeneration With OpenAI-API
+
+
 This application, which I developed on the console using the Open AI API, has two capabilities. One of them is chatbot and the other is image generator.
 
 
